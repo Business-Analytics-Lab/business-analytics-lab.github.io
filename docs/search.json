@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-02-28T18:38:14-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Business Analytics Lab",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-02-28T18:38:14-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
