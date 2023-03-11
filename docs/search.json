@@ -5,22 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\nWe are people from WKU who study about business analytics\n\n\n\n",
-      "last_modified": "2023-03-02T04:29:16-03:00"
-    },
-    {
-      "path": "blog.html",
-      "title": "Blog",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2023-03-02T04:29:16-03:00"
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-03-11T04:11:36-03:00"
     },
     {
       "path": "index.html",
-      "title": "Home",
+      "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-03-02T04:29:17-03:00"
+      "last_modified": "2023-03-11T04:11:36-03:00"
     },
     {
       "path": "team.html",
@@ -28,7 +21,7 @@
       "description": "About team",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-03-02T04:29:17-03:00"
+      "last_modified": "2023-03-11T04:11:37-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

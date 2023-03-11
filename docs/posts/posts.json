@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-03-11-my-first-post/",
+    "title": "my first post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-11",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-11T04:11:08-03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Business Analytics Lab",
     "description": "Welcome to our new blog, Business Analytics Lab. We hope you enjoy \nreading what we have to say!",
