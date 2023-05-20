@@ -1,9 +1,0 @@
----
-title: "Team"
-description: |
-  About team
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

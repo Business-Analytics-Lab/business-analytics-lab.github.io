@@ -6,22 +6,118 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-03-11T04:11:36-03:00"
+      "last_modified": "2023-05-20T20:44:07-03:00"
     },
     {
-      "path": "index.html",
+      "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-03-11T04:11:36-03:00"
+      "last_modified": "2023-05-20T20:44:08-03:00"
     },
     {
-      "path": "team.html",
-      "title": "Team",
-      "description": "About team",
+      "path": "index.html",
+      "title": "Business Analytics Lab",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-03-11T04:11:37-03:00"
+      "last_modified": "2023-05-20T20:44:08-03:00"
+    },
+    {
+      "path": "zac_reading.html",
+      "title": "Reading",
+      "description": "Lab reading list",
+      "author": [],
+      "contents": "\nFoundation\nSapiens: A Brief History of Humankind\nJustice: What’s the right thing to do\nGuns, Germs, and Steel: The Fates of Human Societies\nFactfulness: Ten Reasons We’re Wrong About the World\nThe Selfish Gene\nThe Signal and the Noise: Why So Many Predictions Fail\nMoneyball: The Art of Winning an Unfair Game\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:09-03:00"
+    },
+    {
+      "path": "zlm_ad_pi.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:09-03:00"
+    },
+    {
+      "path": "zlm_currentstudents.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:10-03:00"
+    },
+    {
+      "path": "zlm_faculty.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:10-03:00"
+    },
+    {
+      "path": "zlm_guest.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:11-03:00"
+    },
+    {
+      "path": "zlm_obstudents.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:11-03:00"
+    },
+    {
+      "path": "zpo_product.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:12-03:00"
+    },
+    {
+      "path": "zpo_research.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:13-03:00"
+    },
+    {
+      "path": "zpro_product.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:13-03:00"
+    },
+    {
+      "path": "zpro_research.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:14-03:00"
+    },
+    {
+      "path": "zpro_witepaper.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:14-03:00"
+    },
+    {
+      "path": "zres_web.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\nhere contents about about\n\n\n\n",
+      "last_modified": "2023-05-20T20:44:15-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

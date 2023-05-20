@@ -1,0 +1,18 @@
+---
+title: "Reading"
+description: |
+  Lab reading list
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Foundation
+- Sapiens: A Brief History of Humankind
+- Justice: What's the right thing to do
+- Guns, Germs, and Steel: The Fates of Human Societies
+- Factfulness: Ten Reasons We're Wrong About the World
+- The Selfish Gene
+- The Signal and the Noise: Why So Many Predictions Fail
+- Moneyball: The Art of Winning an Unfair Game

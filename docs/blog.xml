@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
+  <channel>
+    <title>Business Analytics Lab</title>
+    <link>https://business-analytics-lab.github.io/</link>
+    <atom:link href="https://business-analytics-lab.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Business Analytics Lab
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>2023-05-20</lastBuildDate>
+    <item>
+      <title>hello</title>
+      <dc:creator>Chungil Chae</dc:creator>
+      <link>https://business-analytics-lab.github.io/posts/2023-05-20-hello</link>
+      <description>A short description of the post.</description>
+      <guid>https://business-analytics-lab.github.io/posts/2023-05-20-hello</guid>
+      <pubDate>2023-05-20</pubDate>
+    </item>
+  </channel>
+</rss>

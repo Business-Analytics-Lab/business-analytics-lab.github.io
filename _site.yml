@@ -1,16 +1,61 @@
-name: "business_analytics_lab"
+name: "business-analytics-lab.github.io"
 title: "Business Analytics Lab"
 description: |
   Business Analytics Lab
+#favicon: img/logo_favicon.png
 output_dir: "docs"
+base_url: https://business-analytics-lab.github.io/
+repository_url: https://https://github.com/Business-Analytics-Lab/business-analytics-lab.github.io/
+creative_commons: "CC BY"
+exclude: ["readme.md", "LICENSE"]
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Team"
-      href: team.html
+    - text: "Activity"
+      menu:
+      - text: "Reading"
+        href: zac_reading.html
+    - text: "Project"
+      menu:
+      - text: "Research"
+        href: zpro_reserach.html
+      - text: "Product"
+        href: zpro_product.html
+      - text: "White Paper"
+        href: zpro_whitepaper.html
+    - text: "Lab Member"
+      menu:
+      - text: "Advior  / PI"
+        href: zlm_ad_pi.html
+      - text: "Faculty Member"
+        href: zlm_faculty.html
+      - text: "Current Students"
+        href: zlm_currentstudents.html
+      - text: "OB Member"
+        href: zlm_obstudents.html
+      - text: "Guest Member"
+        href: zlm_guest.html
+    - text: "Resource"
+      menu:
+      - text: "Web Site"
+        href: zres_web.html
     - text: "Blog"
-      href: index.html
+      href: blog.html
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: true
+    feed_items_max: 50
+    citations: true
+    disqus:
+      shortname: chadchae
+      hidden: false
+    share: [facebook, twitter, linkedin]
+    subscribe: _subscribe.html
+rss:
+  full_content: true
 output: distill::distill_article
