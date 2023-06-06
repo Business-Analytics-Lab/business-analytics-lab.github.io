@@ -13,3 +13,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# News
+| Contents                                         | Who  |  Date  |
+| ------------------------------------------------ | ---- | ------ |
+| Basic site structure of Lab web site has updated | Chad | May 21 |
+
+
+---
+
+# Schedule
+- [ ] Book reading meeting / May 23, 5:00 PM / CBPM 223
+
+
+---
+
+# Tasks
+
+---
+
+# Study

@@ -1,11 +1,19 @@
 ---
-title: "About this blog"
+title: "Resource | Lab Web"
 description: |
-  Some additional details about the blog
+  List of webapp list for lab activity
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-here contents about about
+## Site
+- [Lab website](http://143.198.120.103/)
+- [Wiki](http://143.198.120.103/wiki1)
+- [Moodle](http://143.198.120.103/moodle1)
+
+## Practice/Test Site
+- [Test Wiki](http://143.198.120.103/wiki0)
+- [Test Moodle](http://143.198.120.103/moodle0)
+

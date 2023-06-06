@@ -6,22 +6,22 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:07-03:00"
+      "last_modified": "2023-06-06T19:33:57-03:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:08-03:00"
+      "last_modified": "2023-06-06T19:33:58-03:00"
     },
     {
       "path": "index.html",
       "title": "Business Analytics Lab",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:08-03:00"
+      "contents": "\nNews\nContents\nWho\nDate\nBasic site structure of Lab web site has updated\nChad\nMay 21\nSchedule\nBook reading meeting / May 23, 5:00 PM / CBPM 223\nTasks\nStudy\n\n\n\n",
+      "last_modified": "2023-06-06T19:33:59-03:00"
     },
     {
       "path": "zac_reading.html",
@@ -29,7 +29,7 @@
       "description": "Lab reading list",
       "author": [],
       "contents": "\nFoundation\nSapiens: A Brief History of Humankind\nJustice: What’s the right thing to do\nGuns, Germs, and Steel: The Fates of Human Societies\nFactfulness: Ten Reasons We’re Wrong About the World\nThe Selfish Gene\nThe Signal and the Noise: Why So Many Predictions Fail\nMoneyball: The Art of Winning an Unfair Game\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:09-03:00"
+      "last_modified": "2023-06-06T19:33:59-03:00"
     },
     {
       "path": "zlm_ad_pi.html",
@@ -37,7 +37,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:09-03:00"
+      "last_modified": "2023-06-06T19:34:00-03:00"
     },
     {
       "path": "zlm_currentstudents.html",
@@ -45,7 +45,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:10-03:00"
+      "last_modified": "2023-06-06T19:34:00-03:00"
     },
     {
       "path": "zlm_faculty.html",
@@ -53,7 +53,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:10-03:00"
+      "last_modified": "2023-06-06T19:34:01-03:00"
     },
     {
       "path": "zlm_guest.html",
@@ -61,7 +61,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:11-03:00"
+      "last_modified": "2023-06-06T19:34:02-03:00"
     },
     {
       "path": "zlm_obstudents.html",
@@ -69,7 +69,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:11-03:00"
+      "last_modified": "2023-06-06T19:34:02-03:00"
     },
     {
       "path": "zpo_product.html",
@@ -77,7 +77,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:12-03:00"
+      "last_modified": "2023-06-06T19:34:03-03:00"
     },
     {
       "path": "zpo_research.html",
@@ -85,7 +85,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:13-03:00"
+      "last_modified": "2023-06-06T19:34:03-03:00"
     },
     {
       "path": "zpro_product.html",
@@ -93,7 +93,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:13-03:00"
+      "last_modified": "2023-06-06T19:34:04-03:00"
     },
     {
       "path": "zpro_research.html",
@@ -101,7 +101,7 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:14-03:00"
+      "last_modified": "2023-06-06T19:34:05-03:00"
     },
     {
       "path": "zpro_witepaper.html",
@@ -109,15 +109,15 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:14-03:00"
+      "last_modified": "2023-06-06T19:34:05-03:00"
     },
     {
       "path": "zres_web.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Resource | Lab Web",
+      "description": "List of webapp list for lab activity",
       "author": [],
-      "contents": "\nhere contents about about\n\n\n\n",
-      "last_modified": "2023-05-20T20:44:15-03:00"
+      "contents": "\nSite\nLab website\nWiki\nMoodle\nPractice/Test Site\nTest Wiki\nTest Moodle\n\n\n\n",
+      "last_modified": "2023-06-06T19:34:07-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
