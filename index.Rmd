@@ -17,13 +17,27 @@ knitr::opts_chunk$set(echo = FALSE)
 | Contents                                         | Who  |  Date  |
 | ------------------------------------------------ | ---- | ------ |
 | Basic site structure of Lab web site has updated | Chad | May 21 |
+| Supportive apps (wiki, lms) launched             | Chad | June 7 |
 
 
 ---
 
 # Schedule
-- [ ] Book reading meeting / May 23, 5:00 PM / CBPM 223
-
+- [v] Book reading meeting / May 23, 5:00 PM / CBPM 223
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] Dynamic Documetation | Chad
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] Media Wiki: workflow and usages | V, Owen 
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] Case Study Method | Jason, Allen
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] Geographical Information System and Analysis | Claudia, Alina
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] Computational Social Science | 
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] 
+- [ ] Lab Meeting / June , 7:00 PM / CBPM 223
+    - [ ] 
 
 ---
 
